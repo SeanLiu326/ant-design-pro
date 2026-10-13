@@ -18,6 +18,7 @@ Language : [English](./README.md) | 简体中文
 </div>
 
 - 预览：https://preview.pro.ant.design
+- 开发上手指南：[docs/onboarding.zh-CN.md](./docs/onboarding.zh-CN.md)
 - 使用文档：[docs/cheatsheet.zh-CN.md](./docs/cheatsheet.zh-CN.md)
 - 更新日志: https://github.com/ant-design/ant-design-pro/releases
 - 常见问题：[docs/cheatsheet.zh-CN.md#faq](./docs/cheatsheet.zh-CN.md#faq)
